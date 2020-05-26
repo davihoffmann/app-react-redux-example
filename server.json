@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "MacBook Pro 2019",
+      "price": 11900.9,
+      "image": "https://http2.mlstatic.com/macbook-pro-2019-16pol-23-i9-16gb-1tb-5550x-envio-ja-D_NQ_NP_849079-MLB32960656502_112019-F.jpg"
+    },
+    {
+      "id": 2,
+      "title": "MacBook Air",
+      "price": 9000.5,
+      "image": "https://www.climaxcomputer.com/wp-content/uploads/2019/08/gray_1__1_1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "iMac 2019",
+      "price": 8790.9,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/imac-21-retina-selection-hero-201903?wid=892&hei=820&&qlt=80&.v=1553120924619"
+    },
+    {
+      "id": 4,
+      "title": "Iphone Pro Max",
+      "price": 5900.9,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-11-pro-select-2019-family?wid=882&amp;hei=1058&amp;fmt=jpeg&amp;qlt=80&amp;op_usm=0.5,0.5&amp;.v=1586586488946"
+    },
+    {
+      "id": 5,
+      "title": "Apple Watch 5",
+      "price": 3500.9,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71DnIj%2B%2BjUL._AC_SX342_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "AirPods Pro",
+      "price": 1900.9,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71zny7BTRlL._AC_SX466_.jpg"
+    }
+  ]
+}
